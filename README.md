@@ -1,13 +1,13 @@
-#Jewellery ecommerce app backend
+# Jewellery ecommerce app backend
 
 This is the backend app written with Node.js, Express.js and used MongoDB as database.
 
 
-###Install Dependencies 
+### Install Dependencies 
 
 npm install
 
 
-###Run Project 
+### Run Project 
 
 node app.js
